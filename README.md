@@ -70,6 +70,7 @@
 
 
 
+### 화면 설계서
 
 [피그마 링크](https://www.figma.com/file/FVqAmv3JJEKCCGRtvev61S/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?type=design&node-id=0-1&mode=design&t=53TKMhGvXomUF7vh-0)
 <br>
@@ -128,14 +129,6 @@
 
 
 
-<br>
-<br>
-<br>
-
-
-
-## 트러블 슈팅
-- 사용한 기능 인터넷에서 대충 배껴오기
 
 
 
