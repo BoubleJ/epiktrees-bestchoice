@@ -47,46 +47,15 @@
 <br>
 
 
-### Stacks(프론트엔드)
-`Next.JS`
+### Stacks
 
-- 다양한 rendering 패턴을 제공하며 프로젝트 협업에 적합
-- CSR SSR ISR SSG등 다양한 rendering 패턴을 제공하는 React framework로 프로젝트 협업에 적합
-- 폴더 기반 라우팅, SEO, 확장된 fetch caching, Middleware Cookie 등 다양한 기능 지원
+**프론트엔드**
 
+`Next.JS`, `Typescript`, `MUI ICON`, `Scss`, `Vercel`
 
- `Typescript`
+**백엔드**
 
- - 안정적인 개발과 높은 수준의 코드 품질을 유지
- - 손쉽게 버그를 예방할 수 있는 
- - 강력한 타입 시스템 기반 컴파일, 버그 예방 및 손쉬운 디버깅
- - 높은 생산성과 호환성
-
-
-
-
-
- `MUI ICON`
-
-
-- 높은 수준의 디자인 퀄리티를 바탕으로 반응형 UI개발이 가능한 Material Design 기반 
-- 방대한 컴포넌트 제공
-- 높은 리액트 호환성, 방대한 자료
-
-
-
- `Scss`
- 
-- CSS보다 심플하고 가독성과 재사용성을 높여주어 유지보수 용이
-- 프로그래밍 언어에서 사용하는 조건문, 반복문, 모듈화 등 다양한 도구 지원
-- 동적 css 관리 가능
-
-
- 
- `Vercel`
- 
-- Nextjs 배포에 최적화된 배포 플랫폼
-- 빌트인 CI/CD, Live Preview, Analytics, 사이트 성능 측정 제공
+ `Kotlin`, `JAVA`,`Spring`, `JPA`, `OAuth`, `MySQL`, `AWS(S3, EC2, CloundFront)`
 
 
  
